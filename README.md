@@ -1,4 +1,4 @@
-😅
+😅 (Above are a few delegates to try for hash matching, below is the psudocode for SHA-256 hash)
 ##
 ## SHA-256 Pseudocode         
 ## https://en.wikipedia.org/wiki/SHA-2
